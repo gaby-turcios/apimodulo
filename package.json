@@ -1,0 +1,15 @@
+{
+  "name": "nutrilunch",
+  "version": "1.0.0",
+  "description": "Sitio web de loncheras y comidas saludables (Express + MySQL)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.22.3",
+    "express-session": "^1.18.0",
+    "mysql2": "^3.9.7"
+  }
+}
